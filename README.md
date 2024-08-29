@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bird Sound Classification using Deep Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16gteAoj-kv8GlMo4HMrovzpkqu9dS9yG?usp=sharing)
@@ -141,3 +142,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
+=======
+# Bird-Sound-Classification-
+A bird sound classification system that identifies bird species from audio recordings using deep learning algorithms.
+>>>>>>> 5fefe5e87c7d1c0fe2e7dcf056275007a88ac31b
