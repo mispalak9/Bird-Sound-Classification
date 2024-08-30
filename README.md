@@ -113,7 +113,7 @@ To use this project, follow these steps:
 
 <br />
 
-[![Watch the video](https://play-lh.googleusercontent.com/mEK_gsVS1mYj_KH1rSU_zbngHSbfLPUGK59bWXlTx2cGqIP_8eUrszdYfNkaGrmNavEI)](https://drive.google.com/file/d/15TDdlnYkVqrAUew5q3ECaeetRxgYMMBE/view?usp=drive_link)
+[![Watch the video](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/a2/cb/51a2cb9d-a6e4-5b58-1920-b2c477c09f0f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x630wa.png)](https://drive.google.com/file/d/15TDdlnYkVqrAUew5q3ECaeetRxgYMMBE/view?usp=drive_link)
 
 
 🚀 **Application:** []()
