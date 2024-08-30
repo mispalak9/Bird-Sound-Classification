@@ -113,7 +113,9 @@ To use this project, follow these steps:
 
 <br />
 
-[![Watch the video](https://img.freepik.com/free-vector/vector-gradient-bird-logo-design_474888-2625.jpg)](https://drive.google.com/file/d/15TDdlnYkVqrAUew5q3ECaeetRxgYMMBE/view?usp=drive_link)
+## Demo Video
+
+🐦 [Watch the demo video](https://drive.google.com/file/d/15TDdlnYkVqrAUew5q3ECaeetRxgYMMBE/view?usp=drive_link) 🔗
 
 
 🚀 **Application:** []()
