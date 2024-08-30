@@ -160,13 +160,13 @@ streamlit_config()
 _, col2, _ = st.columns([0.1, 0.9, 0.1])
 with col2:
     input_audio = st.file_uploader(label='Upload the Audio', type=['mp3', 'wav'])
-    record_button = st.button("Record Audio")
+    record_button = st.button("Record Audio", key="record_button")
 
 if record_button:
     recorded_file = record_audio()
     predicted_class, confidence = prediction(recorded_file)
     feedback = st.text_area("Provide your feedback:", key="feedback_record")
-    if st.button("Submit Feedback"):
+    if st.button("Submit Feedback", key="submit_feedback_record"):
         save_feedback(recorded_file, predicted_class, confidence, feedback)
         st.success("Thank you for your feedback!")
 
@@ -175,7 +175,7 @@ if input_audio is not None:
     with col2:
         predicted_class, confidence = prediction(input_audio)
         feedback = st.text_area("Provide your feedback:", key="feedback_upload")
-        if st.button("Submit Feedback"):
+        if st.button("Submit Feedback", key="submit_feedback_upload"):
             save_feedback(input_audio.name, predicted_class, confidence, feedback)
             st.success("Thank you for your feedback!")
 
