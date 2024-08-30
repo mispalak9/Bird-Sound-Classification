@@ -53,7 +53,7 @@ def box_with_message_and_icon(message, icon_url):
             flex-direction: column;
             padding: 20px; 
             border: 2px solid #ccc; 
-            background-color: #f0f0f0; 
+            background-color: rgba(0,0,0,0); 
             border-radius: 10px;
             width: 60%;
             margin: 0 auto;
