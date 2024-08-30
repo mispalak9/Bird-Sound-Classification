@@ -6,7 +6,7 @@
 
 **Introduction**
 
-In the realm of environmental conservation and wildlife research, accurately identifying bird species based on their unique vocalizations is paramount. However, this task presents challenges due to the vast diversity of avian calls and the complexity of acoustic environments. To overcome these challenges, we present a robust solution: Bird Sound Classification using Deep Learning. Leveraging the power of TensorFlow, our project employs Convolutional Neural Networks (CNNs) to analyze audio signals and classify them into distinct bird species with high precision. By harnessing state-of-the-art machine learning techniques, our endeavor seeks to revolutionize avian research, facilitate ecological monitoring, and contribute to the conservation of avifauna worldwide.
+In environmental conservation and wildlife research, identifying bird species by their vocalizations is crucial but challenging due to the diversity of calls and complex acoustic environments. Our project, Bird Sound Classification using Deep Learning, addresses this by using TensorFlow and Convolutional Neural Networks (CNNs) to accurately classify bird species from audio signals. This approach aims to enhance avian research, support ecological monitoring, and contribute to global bird conservation efforts.
 
 <br />
 
@@ -73,7 +73,10 @@ To use this project, follow these steps:
 4. Access the app in your browser at ```http://localhost:8501```
 5. Change Path: ```cd Bird-Sound-Classification-using-Deep-Learning```
 6. Change Path: ```.\venv\Scripts\activate```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0496fa2789c849142e33c2f428867c54a13291f1
 
 <br />
 
@@ -114,6 +117,16 @@ To use this project, follow these steps:
 
 <br />
 
+<<<<<<< HEAD
+=======
+## Demo Video
+
+🐦 [Watch the demo video](https://drive.google.com/file/d/15TDdlnYkVqrAUew5q3ECaeetRxgYMMBE/view?usp=drive_link) 🔗
+
+
+🚀 **Application:** []()
+
+>>>>>>> 0496fa2789c849142e33c2f428867c54a13291f1
 
 <br />
 
@@ -123,10 +136,24 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 <br />
 
+<<<<<<< HEAD
+=======
+
+**Contact**
+
+📧 Email: palakm130@gmail.com 
+
+🌐 LinkedIn: [linkedin.com/in/palak-mishra-494a2b1b9](https://www.linkedin.com/in/palak-mishra-494a2b1b9)
+>>>>>>> 0496fa2789c849142e33c2f428867c54a13291f1
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
 =======
 # Bird-Sound-Classification-
 A bird sound classification system that identifies bird species from audio recordings using deep learning algorithms.
+<<<<<<< HEAD
 >>>>>>>
+=======
+>>>>>>> 
+
+>>>>>>> 0496fa2789c849142e33c2f428867c54a13291f1
